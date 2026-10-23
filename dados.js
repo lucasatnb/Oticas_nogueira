@@ -1,7 +1,7 @@
 window.LOJA = {
  "nome": "Oticas nogueira",
  "modo": "especializado",
- "whatsapp": "558596767197",
+ "whatsapp": "5585997476268",
  "orcamento": true,
  "telegram": "",
  "mensagem_inicial": "",
